@@ -1,0 +1,17 @@
+use vanilla js in :
+toggle navbar.
+display font when mouseover or clicking the work of shreif.
+
+
+
+use node js :
+send e-mail
+
+
+
+
+
+use css:
+toggle some pictures
+
+
